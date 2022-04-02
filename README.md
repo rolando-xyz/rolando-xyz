@@ -1,4 +1,6 @@
-### Hi there 👋
+- 👋 Hi there my name is Rolando Gomez
+- 🌱 I am a Full-Stack Developer
+- 🤔 I am interested in automation and robotics
 
 <!--
 **rolando-xyz/rolando-xyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
